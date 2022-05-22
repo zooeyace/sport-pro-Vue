@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3231135 */
+  src: url('iconfont.woff2?t=1652530622960') format('woff2'),
+       url('iconfont.woff?t=1652530622960') format('woff'),
+       url('iconfont.ttf?t=1652530622960') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ziliaoku:before {
+  content: "\e601";
+}
+
+.icon-gouwuchekong:before {
+  content: "\e602";
+}
+
+.icon-yonghuguanli:before {
+  content: "\e66e";
+}
+
+.icon-yundong-:before {
+  content: "\ee31";
+}
+
+.icon-guanli:before {
+  content: "\e604";
+}
+
+.icon-kaluli:before {
+  content: "\e603";
+}
+
+.icon-yingyangcan:before {
+  content: "\e64f";
+}
+
+.icon-a-VIPhuiyuanhuiyuanka:before {
+  content: "\e643";
+}
+
+.icon-list:before {
+  content: "\e682";
+}
+
+.icon-qialuli:before {
+  content: "\e7b4";
+}
+
+.icon-yundonghuwaileimu:before {
+  content: "\e6ea";
+}
+
+.icon-shangpin:before {
+  content: "\e689";
+}
+
+.icon-book:before {
+  content: "\e616";
+}
+
+.icon-guanliyuanrenzheng:before {
+  content: "\eacc";
+}
+
+.icon-shiwu:before {
+  content: "\e691";
+}
+
+.icon-avatar:before {
+  content: "\e600";
+}
+
+.icon-password:before {
+  content: "\e75b";
+}
+
