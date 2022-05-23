@@ -4,7 +4,7 @@ import { Message } from "element-ui"; // 在js得这么引用
 import router from "../router";
 
 const ajax = axios.create({
-    //baseURL: 'http://localhost:9000',
+    baseURL: '/',
     timeout: 1000000
 })
 

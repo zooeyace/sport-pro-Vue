@@ -20,13 +20,12 @@ const routes = [{
     component: Login
   },
   {
-    path: '/home',
+    path: '/',
     component: Home
   }
 ]
 
 const router = new VueRouter({
-  mode: 'history',
   routes
 })
 

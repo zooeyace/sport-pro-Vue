@@ -143,7 +143,7 @@ export default {
                     const token = res.data.data.tokenHead + res.data.data.token; // 拼接token
                     this.$store.commit('setToken', token)
                     //页面跳转
-                    this.$router.push({ path: '/home' });
+                    this.$router.push({ path: '/' });
                 }).catch((err) => {
                     this.loadFlag = false;
                     this.loadingText = '登录';
